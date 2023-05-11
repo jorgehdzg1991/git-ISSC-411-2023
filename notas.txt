@@ -1,0 +1,6 @@
+Commands:
+- Clone: git clone <repo_url>
+- Status: git status
+- Add/Stage files: git add <file_name> | git add .
+- Commit: git commit -m "<commit_message>"
+- Push: git push
